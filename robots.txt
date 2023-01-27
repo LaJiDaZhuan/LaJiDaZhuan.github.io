@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /BingSiteAuth.xml
+Disallow: /README.md
+Disallow: /baidu_verify_codeva-kehN304vjy.html
+Disallow: /googledf1a1cff45f94f83.html
